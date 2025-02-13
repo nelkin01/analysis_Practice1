@@ -1,0 +1,386 @@
+﻿Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Region,Category,SubCategory,Product Name,Sales,Quantity,Discount,Profit,Price,Total Sales
+273e6fd8,2024-10-09,2025-01-12,First Class,85a729,Jesse Cunningham,Home Office,South,Office Supplies,Storage,New Technology,87.42,10,0.34,143.05,8.742,57.6972
+f9d76222,2023-06-25,2023-07-10,First Class,c31a54,Benjamin Rodriguez,Corporate,West,Office Supplies,Phones,Me By,156.32,1,0.18,161.94,156.32,128.1824
+2f2bcefa,2024-09-23,2024-10-28,First Class,391755,David Mcknight,Home Office,West,Technology,Phones,Federal Assume,359.82,9,0.48,53.51,39.98,187.1064
+957666da,2023-10-03,2023-04-06,First Class,e3cf63,Gregory Harrington,Corporate,South,Technology,Phones,Nice Tend,417.69,2,0.08,112.59,208.845,384.2748
+f5dd82bd,2024-02-26,2023-03-13,First Class,641eab,Michael Cox,Corporate,East,Technology,Paper,Arrive Cost,412.5,1,0.15,87.54,412.5,350.625
+ebce0d9b,2024-04-12,2024-03-19,Second Class,8c87f0,Jasmine Scott,Consumer,East,Technology,Chairs,Keep What,7.28,4,0.49,83.66,1.82,3.7128
+c1678204,2024-01-19,2023-04-11,Same Day,5af52a,William Hawkins,Consumer,East,Office Supplies,Binders,Wide Suggest,329.79,4,0.07,181.46,82.4475,306.7047
+b799d97f,2024-02-20,2024-06-17,Standard Class,e8efa1,Margaret Reyes,Corporate,Central,Technology,Phones,Hot Office,112.44,1,0.04,190.14,112.44,107.9424
+82d3a969,2024-12-20,2023-10-10,First Class,017ad5,Daniel Archer,Corporate,Central,Office Supplies,Paper,Any Art,339.39,8,0.37,65.53,42.42375,213.8157
+d5b5c68f,2023-07-10,2024-08-14,Same Day,fa9e83,Ernest Guzman,Corporate,East,Technology,Tables,Well Note,70.65,9,0.17,196.84,7.85,58.6395
+8c3987d5,2024-10-14,2023-07-05,Second Class,1ff4d0,Devin Rose,Home Office,Central,Technology,Storage,Prepare Hold,456.26,6,0.33,198.72,76.04333333,305.6942
+313ba410,2024-12-20,2024-04-16,Second Class,d9bb27,Glenn Odonnell,Corporate,West,Office Supplies,Binders,Agreement Throughout,51.28,2,0.17,73.35,25.64,42.5624
+ff121c60,2025-02-06,2025-02-02,Same Day,66aefd,David Becker,Consumer,West,Technology,Tables,Listen Key,293.28,5,0.06,44.45,58.656,275.6832
+7b0a15f1,2023-05-18,2023-07-28,Standard Class,70d5ab,Linda Maddox,Corporate,East,Furniture,Paper,Charge Individual,316.05,10,0.32,22.86,31.605,214.914
+385aa855,2024-07-11,2024-07-18,Standard Class,9c0472,Tara Cannon,Consumer,Central,Office Supplies,Storage,Meeting Care,224.95,6,0.34,72.81,37.49166667,148.467
+1d578a1e,2024-05-23,2024-10-03,Standard Class,3120af,Jordan Welch,Corporate,Central,Office Supplies,Phones,Usually Attorney,452.65,10,0.16,133.23,45.265,380.226
+fd767474,2025-01-23,2024-04-13,Standard Class,d14ba0,Kayla Powell,Consumer,East,Furniture,Paper,Avoid Station,34.96,3,0.19,8.72,11.65333333,28.3176
+be46ecef,2024-07-02,2023-06-27,Standard Class,dae8b4,Victoria Ayers,Home Office,Central,Office Supplies,Storage,Economic High,461.54,10,0.23,173.9,46.154,355.3858
+db119945,2023-08-27,2024-07-22,Second Class,9c7169,Jessica Palmer,Home Office,West,Office Supplies,Tables,Hospital Name,487.89,10,0.29,189.09,48.789,346.4019
+41eedbc8,2023-10-28,2023-05-21,Standard Class,849099,Vanessa Hamilton,Home Office,Central,Technology,Phones,Interview Surface,403.74,6,0.02,68.48,67.29,395.6652
+bdf55d6b,2024-12-11,2024-06-07,First Class,9cb92b,Theresa Douglas,Home Office,East,Office Supplies,Paper,Data Different,271.86,7,0.15,73.19,38.83714286,231.081
+f3a70aa1,2023-05-16,2024-07-11,Second Class,6f56d8,Thomas Graham,Corporate,Central,Technology,Paper,Up Country,383.65,8,0.26,179.96,47.95625,283.901
+b6a796ee,2023-07-27,2024-02-12,Same Day,84e5c8,Miss Christine Welch,Home Office,West,Furniture,Storage,Management Large,486.02,9,0.08,57.97,54.00222222,447.1384
+1969bb2c,2024-11-03,2023-12-16,First Class,6d42a9,Kristy Miller,Consumer,West,Furniture,Paper,Apply International,418.71,1,0.14,197.55,418.71,360.0906
+93863e83,2024-09-25,2023-12-10,Second Class,20a468,Christian Rollins,Home Office,Central,Technology,Phones,Another Stage,451.67,5,0.28,105.68,90.334,325.2024
+7e871039,2024-06-08,2024-08-27,Second Class,aeacc0,Joshua Jones,Consumer,Central,Office Supplies,Paper,Leg Report,317.29,10,0.36,192.33,31.729,203.0656
+6b052db9,2023-12-19,2023-09-21,Same Day,18eacb,Aaron Taylor,Home Office,West,Furniture,Storage,Both South,444.42,5,0.36,11.4,88.884,284.4288
+7a5dde8f,2024-02-09,2023-05-17,Same Day,97f6d0,Michelle Boyle,Corporate,West,Furniture,Storage,Model Perform,388.44,1,0.18,50.96,388.44,318.5208
+051f2587,2024-05-05,2025-01-31,Second Class,cf57a2,Matthew Anderson,Corporate,Central,Furniture,Storage,Choose Nation,466.91,3,0.22,34.57,155.6366667,364.1898
+3836cdbf,2024-08-13,2024-05-25,First Class,416f4f,Penny Miller,Home Office,Central,Technology,Paper,Commercial Tonight,121.8,2,0.46,67.5,60.9,65.772
+3ad18121,2023-05-07,2023-06-09,Standard Class,526b17,Adam Nelson,Home Office,Central,Technology,Binders,Campaign American,242.68,2,0.07,157.39,121.34,225.6924
+95dbb629,2023-11-17,2023-06-03,Same Day,e0a8dd,Ricky Jackson,Corporate,South,Technology,Chairs,Pretty Course,372.36,8,0.25,31.73,46.545,279.27
+88f0b86f,2024-08-13,2024-02-11,Standard Class,721c7f,Rachel Golden,Corporate,West,Office Supplies,Tables,Treatment Rock,444.13,5,0.35,193.42,88.826,288.6845
+fa9af2bf,2023-09-27,2023-11-30,Same Day,c2b057,Matthew King,Consumer,Central,Technology,Chairs,Across Ago,189.79,6,0.45,177.26,31.63166667,104.3845
+78ac1eed,2024-07-20,2024-09-28,Standard Class,3c0309,Anthony Wood,Corporate,Central,Furniture,Storage,Discuss Trip,174.7,8,0.4,101.83,21.8375,104.82
+e2d8a9e2,2024-01-26,2023-03-27,Same Day,0ac4ef,Christine Stevens,Corporate,Central,Technology,Paper,Table Much,233.84,10,0.24,177.92,23.384,177.7184
+77f2be7f,2024-03-15,2023-12-09,Standard Class,bbe438,Michael Cook,Corporate,West,Furniture,Paper,Pull Four,101.87,7,0.29,131.29,14.55285714,72.3277
+59edcd64,2024-04-05,2023-06-23,Standard Class,0681f1,Jessica Fields,Consumer,East,Furniture,Chairs,Customer Finish,53.48,2,0.49,182.36,26.74,27.2748
+dc1c6f0c,2023-12-23,2023-08-26,Same Day,7f6876,Sandra Lopez,Consumer,East,Office Supplies,Binders,And Maintain,101.19,7,0.44,22.34,14.45571429,56.6664
+ff00767b,2024-02-27,2023-10-15,Second Class,791958,Madison Brown,Home Office,Central,Office Supplies,Chairs,Free Show,197.5,7,0.02,110.2,28.21428571,193.55
+92c75243,2023-09-10,2023-07-20,Second Class,c2d724,Eddie Perez,Corporate,Central,Furniture,Paper,Measure Use,478.11,2,0.43,84.37,239.055,272.5227
+192edf8b,2024-12-23,2023-04-28,Standard Class,f1b8bc,Christopher Campbell Jr.,Consumer,Central,Furniture,Paper,Deep Old,451.92,9,0.33,10.16,50.21333333,302.7864
+12989f14,2025-01-31,2024-07-18,Second Class,be5557,Andrew Burns,Consumer,West,Office Supplies,Chairs,Star Capital,167.15,7,0.29,64.14,23.87857143,118.6765
+9402315a,2023-09-28,2024-02-15,Same Day,fe2ec9,Heather Moore,Home Office,Central,Furniture,Binders,Experience Know,384.39,10,0.07,135.87,38.439,357.4827
+9bc5c404,2023-04-18,2023-06-07,Same Day,5abdef,James Arroyo,Consumer,South,Technology,Tables,Go Pay,72.2,6,0.4,191.79,12.03333333,43.32
+3d772ed0,2025-02-07,2023-04-15,First Class,a9cbbc,Melissa Watts,Consumer,East,Technology,Tables,Dog Ok,57.06,6,0.23,166.88,9.51,43.9362
+0d0ed1f5,2024-02-27,2024-03-04,First Class,266f46,Angela Shields,Home Office,East,Office Supplies,Tables,Generation Forward,84.89,6,0.26,120.56,14.14833333,62.8186
+20204a78,2023-07-17,2024-11-25,Second Class,1ddcbe,James Medina,Home Office,Central,Technology,Storage,Career Success,454.39,10,0.07,169.5,45.439,422.5827
+0e9375e4,2023-09-27,2024-03-17,Standard Class,f28ee6,Courtney Rose,Corporate,West,Office Supplies,Chairs,Also Activity,128.99,1,0.31,155.18,128.99,89.0031
+9573ee08,2025-01-26,2024-07-04,Second Class,01b3f9,Megan Allen,Consumer,West,Office Supplies,Tables,Plant Guy,15.4,4,0.41,145.7,3.85,9.086
+858f6b83,2023-09-14,2023-09-07,Standard Class,747e4e,Mark Thomas,Consumer,West,Technology,Paper,Use Option,220.93,6,0.1,165,36.82166667,198.837
+e381b882,2024-12-30,2023-04-15,Second Class,4a2a13,Richard Williams,Home Office,South,Office Supplies,Binders,Political Response,191.52,10,0.44,58.28,19.152,107.2512
+64bdf406,2023-12-01,2025-01-12,Same Day,086454,Scott Spears,Home Office,Central,Furniture,Paper,Onto Successful,426.72,8,0.35,160.32,53.34,277.368
+a6650ec6,2023-03-10,2024-08-30,Second Class,7dd3d2,James Jenkins,Home Office,Central,Furniture,Paper,Now Itself,61.95,10,0.34,96.26,6.195,40.887
+ea5572dd,2023-05-22,2023-04-04,Second Class,488f3f,Shawn Armstrong,Consumer,East,Furniture,Phones,Parent If,286.29,6,0.33,199.38,47.715,191.8143
+0ff042ef,2024-09-24,2024-09-10,Second Class,1e6b29,Christopher Tran,Home Office,East,Office Supplies,Storage,Outside Explain,274.11,10,0.17,178.1,27.411,227.5113
+7705ade9,2024-10-24,2023-08-04,Second Class,03b38c,Justin Smith,Corporate,South,Office Supplies,Binders,Threat Often,155.96,8,0.27,67.5,19.495,113.8508
+bf2784de,2024-10-21,2025-01-26,Standard Class,cc9fd4,Warren Moran,Consumer,Central,Furniture,Paper,Around Interest,331.77,7,0.3,190.63,47.39571429,232.239
+827bf5fa,2023-02-23,2025-01-02,Standard Class,4ef176,Brian Meza,Consumer,South,Technology,Chairs,Thus Alone,338.14,3,0.37,79.03,112.7133333,213.0282
+69ee0480,2024-01-09,2024-03-25,Second Class,72941a,Clinton Meza,Consumer,West,Furniture,Binders,Kind Surface,461.49,3,0.2,68.42,153.83,369.192
+a312aa33,2023-11-13,2023-12-19,Second Class,b5a35a,Justin Thomas,Consumer,Central,Furniture,Storage,Mean Evidence,321.19,6,0.36,50.4,53.53166667,205.5616
+da0f765f,2023-07-12,2024-11-07,Second Class,e541d6,Donna Shelton,Consumer,Central,Technology,Paper,Door Cost,304.44,8,0.12,0.94,38.055,267.9072
+96306ac6,2023-06-03,2024-03-25,First Class,b36741,Kelly Gould,Corporate,East,Office Supplies,Paper,Issue Own,329.56,10,0.15,140.56,32.956,280.126
+d623efe0,2024-04-21,2024-09-17,Second Class,d72fe0,Herbert Jones,Consumer,South,Technology,Binders,Purpose Girl,137.26,2,0.29,23.74,68.63,97.4546
+84472209,2023-08-29,2025-01-03,Second Class,7e652a,Richard Webster,Consumer,Central,Furniture,Phones,Drive Evidence,416.11,6,0.34,55.2,69.35166667,274.6326
+8bdfc246,2023-06-26,2025-01-16,Standard Class,fba43b,Natalie Sanchez,Home Office,East,Office Supplies,Storage,Trial Good,130.34,3,0.35,148.35,43.44666667,84.721
+ef9b83d7,2024-07-15,2024-07-13,Standard Class,379361,Danny Wilson,Home Office,Central,Office Supplies,Phones,Six Arrive,42.38,2,0.08,12.37,21.19,38.9896
+cf0857ba,2024-02-08,2024-08-10,Second Class,b35b3e,Michelle Reid,Corporate,Central,Furniture,Binders,Major Discover,162.45,4,0.2,161.02,40.6125,129.96
+54b09a34,2024-05-15,2024-09-01,First Class,35f9d5,Maria Scott,Consumer,West,Office Supplies,Tables,Coach Likely,300.72,4,0.19,104.49,75.18,243.5832
+ec1b70a2,2023-06-05,2023-04-25,Second Class,3243b9,Jessica Lee,Consumer,West,Technology,Storage,Wear Happen,300.3,8,0.42,39.58,37.5375,174.174
+41bcdcf3,2023-02-25,2024-07-19,First Class,ff5a54,Matthew Clark,Corporate,South,Technology,Storage,Or Professional,236.41,3,0.34,100.97,78.80333333,156.0306
+1d22a74e,2024-01-05,2023-07-09,First Class,a97bae,Zachary Martinez,Corporate,Central,Office Supplies,Phones,Space Season,84.45,1,0.14,124.71,84.45,72.627
+45f8ef5d,2023-03-13,2025-01-18,First Class,1db7dd,Paul Wolf,Corporate,Central,Furniture,Paper,Every Clear,244.14,7,0.36,76.02,34.87714286,156.2496
+92f9f04c,2024-08-06,2023-05-23,Second Class,8b3681,Christopher Gallagher,Corporate,Central,Furniture,Storage,Head Fall,437.79,9,0.27,90.15,48.64333333,319.5867
+4a7607d7,2024-06-03,2024-10-14,Standard Class,8155c0,Rebecca Patterson,Home Office,West,Furniture,Phones,From Sister,267.52,1,0.49,35.2,267.52,136.4352
+397ebfd0,2025-01-24,2024-07-10,First Class,b08ea1,Jeremy Garcia,Consumer,West,Technology,Storage,Sister Leg,23.74,2,0.01,75.14,11.87,23.5026
+3ea1f0fd,2023-05-14,2023-03-21,First Class,ea901b,Brianna Harper,Corporate,West,Office Supplies,Phones,Key Window,412.23,3,0.09,86.04,137.41,375.1293
+830ebe3a,2024-09-25,2023-11-27,Second Class,5f8bb3,Melissa Martin,Corporate,West,Furniture,Tables,Growth Morning,83.68,2,0.48,137.05,41.84,43.5136
+055951e3,2024-07-28,2024-01-31,Standard Class,e97b5b,Aaron Hurst,Home Office,Central,Office Supplies,Phones,News Across,285.12,1,0.17,39.81,285.12,236.6496
+64badefb,2024-03-15,2024-03-04,Same Day,6964e5,Claudia Smith,Corporate,South,Technology,Paper,Most Group,415.26,5,0.08,50.33,83.052,382.0392
+9b81ad15,2024-04-06,2024-02-27,Same Day,3e5345,Denise Wright,Consumer,Central,Furniture,Storage,Draw Leader,471.49,2,0.46,100.89,235.745,254.6046
+8313e294,2023-05-14,2023-10-08,First Class,eee6ec,Justin Meadows,Corporate,East,Office Supplies,Paper,Finally Our,265.53,10,0.41,153.33,26.553,156.6627
+0b6d5305,2024-08-03,2023-12-16,First Class,a773ec,Michael Lawrence,Consumer,Central,Furniture,Storage,New Big,424.18,7,0.37,1.04,60.59714286,267.2334
+c53fabb2,2024-04-09,2024-06-30,Same Day,012a59,Rebecca Nelson,Consumer,Central,Technology,Binders,Citizen Worry,192.76,2,0.46,15.95,96.38,104.0904
+b75e5cbd,2023-12-07,2024-06-19,Standard Class,9a0a2f,Travis Wood,Home Office,South,Furniture,Storage,Able None,424.34,10,0.31,96.81,42.434,292.7946
+fd106053,2023-09-14,2023-03-13,Second Class,49cb40,Briana Johnson,Corporate,East,Office Supplies,Storage,Reason Wish,406.07,5,0.49,95.22,81.214,207.0957
+0d548552,2024-03-04,2024-10-13,First Class,29da71,Candace Duke,Home Office,East,Technology,Storage,Wall Remain,376.32,3,0.4,55.14,125.44,225.792
+9d7ae756,2023-05-17,2023-06-12,Same Day,b1448b,Allen Richardson,Consumer,East,Office Supplies,Paper,Place Audience,131.4,7,0.39,62.54,18.77142857,80.154
+dbc2c26d,2024-03-11,2023-12-01,First Class,b47ccb,Ms. Sydney Robbins,Corporate,South,Technology,Chairs,Available Beat,266.27,6,0.19,161,44.37833333,215.6787
+5ed046ad,2024-04-02,2024-11-22,Standard Class,1f7910,Logan Hernandez,Corporate,East,Furniture,Tables,One Early,216.58,10,0.43,170.32,21.658,123.4506
+adf4f06f,2023-07-27,2023-07-23,Standard Class,0df66e,Arthur Schneider,Home Office,Central,Office Supplies,Chairs,There Attack,485.11,7,0.23,89,69.30142857,373.5347
+61bbb6b5,2024-01-03,2023-08-10,Second Class,4dfc6a,Donald Lee,Consumer,South,Technology,Tables,Rise Sure,346.04,1,0.22,49.29,346.04,269.9112
+86f550d7,2023-08-15,2024-09-27,Same Day,0f875f,Mrs. Janice Berry,Home Office,West,Office Supplies,Paper,According Yeah,261.04,3,0.37,21.09,87.01333333,164.4552
+1647c66e,2023-09-28,2023-12-03,Standard Class,35ec72,Christopher Moore,Corporate,East,Office Supplies,Tables,No Agreement,306.89,6,0.39,197.02,51.14833333,187.2029
+1de99890,2024-04-10,2024-02-15,Standard Class,b6414b,Megan Cummings,Corporate,South,Office Supplies,Phones,College She,99.16,8,0.25,114.71,12.395,74.37
+9e2a4bd7,2023-09-28,2024-03-05,First Class,48a5a2,Joseph Marshall,Home Office,South,Furniture,Binders,Population Guy,410.02,4,0.47,192.13,102.505,217.3106
+a31795ef,2023-05-20,2025-01-08,Standard Class,c1d62f,Todd Johnson,Home Office,Central,Technology,Phones,Yes Chair,75.62,5,0.18,115.23,15.124,62.0084
+067dd068,2024-05-17,2023-09-03,Standard Class,1e1861,Christopher Davis,Consumer,East,Furniture,Tables,Challenge Media,142.63,6,0.25,155.4,23.77166667,106.9725
+cc853adc,2024-12-01,2023-12-25,First Class,ce9314,Kevin Wilson,Corporate,Central,Technology,Chairs,Where Identify,100.85,4,0.3,49.8,25.2125,70.595
+a54b55d8,2024-04-20,2024-04-09,Second Class,6d1343,Karen Lam,Corporate,East,Technology,Phones,Collection Into,203.84,4,0.21,148.47,50.96,161.0336
+89a6c685,2024-02-14,2024-09-09,Second Class,cc669b,Victoria Estrada,Consumer,East,Technology,Binders,Color Realize,77.99,5,0.45,71.79,15.598,42.8945
+0730f12f,2024-05-07,2023-11-05,First Class,691757,Kristy Lawrence,Corporate,South,Furniture,Tables,Body War,454.08,7,0.05,81.48,64.86857143,431.376
+a62220f0,2023-03-24,2023-06-20,First Class,0cd139,Jordan Gordon,Corporate,West,Office Supplies,Paper,Him Teacher,358.95,2,0.09,128.56,179.475,326.6445
+acd48e2d,2023-09-13,2023-11-24,First Class,48cc87,Monica Schultz,Home Office,East,Technology,Phones,Important Three,246.56,5,0.43,161.44,49.312,140.5392
+87f1b24c,2024-05-14,2024-11-27,Second Class,6fe6b3,Daniel Hernandez,Home Office,West,Technology,Phones,Fear Page,47.58,10,0.23,13.51,4.758,36.6366
+15c24c66,2024-12-07,2024-10-14,Second Class,6d52dd,Randy Hoffman,Home Office,South,Furniture,Binders,Seem Often,191.44,4,0.44,39.09,47.86,107.2064
+ed5f9b36,2023-03-30,2023-11-03,Same Day,16682d,John Miller,Consumer,West,Technology,Binders,Impact End,434.25,8,0.33,187.06,54.28125,290.9475
+c94e1b00,2023-10-24,2023-12-23,Standard Class,0732e2,Glenn Williamson,Home Office,West,Office Supplies,Tables,Local Maybe,337.41,2,0.11,157.56,168.705,300.2949
+5c67baf7,2024-05-02,2023-12-24,Second Class,96ad67,James Henry,Home Office,South,Office Supplies,Storage,Republican Site,37.62,6,0.11,100.24,6.27,33.4818
+257f26aa,2024-03-31,2025-02-05,First Class,0132d4,Leah Vance,Home Office,Central,Furniture,Phones,Religious Perhaps,224.34,4,0.3,5.28,56.085,157.038
+d8cf6f43,2023-07-08,2024-05-20,Second Class,befdb4,Tammy Spencer,Consumer,West,Technology,Storage,Lose Radio,426.49,6,0.43,91.19,71.08166667,243.0993
+850ecfac,2023-08-02,2023-08-22,First Class,604b73,Theodore Chapman,Corporate,West,Technology,Phones,Seek Research,367.11,1,0.48,134.02,367.11,190.8972
+965b3f4c,2023-09-02,2023-07-10,Same Day,1f8c2a,David Cabrera,Consumer,Central,Office Supplies,Paper,Whether Stuff,285.08,4,0.48,190.1,71.27,148.2416
+d903476b,2023-02-12,2024-07-27,Second Class,268e8a,Elizabeth Ryan,Consumer,Central,Office Supplies,Phones,Medical Against,179.64,7,0.39,147.84,25.66285714,109.5804
+5f429e73,2024-03-18,2024-01-30,First Class,406d95,Jennifer Williamson,Corporate,South,Furniture,Phones,Itself Fund,161.35,10,0.48,94.07,16.135,83.902
+41164028,2025-01-24,2024-07-15,First Class,01d4cb,Jasmine Evans,Home Office,South,Technology,Tables,Dream Suffer,248.16,4,0.17,196.71,62.04,205.9728
+6365d326,2024-03-17,2024-12-16,Second Class,c419b9,Colleen Navarro,Consumer,West,Furniture,Binders,Explain Fall,281.58,6,0.24,0.49,46.93,214.0008
+7a6cfcc8,2024-08-05,2024-01-15,Second Class,cafcce,Kristin Russell,Consumer,West,Technology,Chairs,Cup Expect,127,2,0.32,150.84,63.5,86.36
+142f875b,2023-08-29,2024-05-18,Second Class,a3c574,Madeline Trevino,Corporate,East,Technology,Binders,Season Such,72.42,9,0.36,54.83,8.046666667,46.3488
+035870e1,2023-09-01,2023-04-22,First Class,91bb80,Ashley Neal,Home Office,South,Furniture,Storage,Course Personal,417.57,3,0.19,123.5,139.19,338.2317
+d6b4d037,2024-10-02,2024-07-10,First Class,ee9864,Donald Burns,Consumer,South,Technology,Storage,Finally Then,499.78,5,0.32,125.78,99.956,339.8504
+fac27668,2025-01-31,2024-01-11,Standard Class,e36736,Alexander Juarez,Consumer,East,Technology,Chairs,Shake Garden,18.3,5,0.32,82.42,3.66,12.444
+7845000f,2023-09-01,2023-10-03,Second Class,31b6a0,Erica Anthony,Home Office,Central,Office Supplies,Phones,Law Their,359.4,2,0.15,47.33,179.7,305.49
+becb4b1a,2023-04-07,2024-01-21,Same Day,9ef8fa,Kevin Blair,Home Office,West,Furniture,Phones,Customer Anyone,70.08,6,0.06,139.95,11.68,65.8752
+0acb051c,2024-05-02,2024-03-13,Second Class,6481b8,Garrett Merritt,Consumer,West,Technology,Paper,Away Present,297.84,6,0,28.68,49.64,297.84
+69b09161,2023-02-24,2023-06-09,Standard Class,482f9f,Jacob Castillo,Consumer,Central,Office Supplies,Tables,Call Company,298.59,5,0.44,90.45,59.718,167.2104
+b01b3660,2024-04-24,2023-03-07,First Class,08005b,William Kennedy,Home Office,Central,Technology,Chairs,Security Western,76.33,7,0.48,154.53,10.90428571,39.6916
+53576d98,2023-03-18,2024-12-07,Same Day,100be5,Christy Watson,Corporate,Central,Furniture,Storage,Picture Letter,114.19,7,0.24,100.25,16.31285714,86.7844
+20a5db29,2024-05-05,2025-02-02,Same Day,ec8ce5,Angela Alvarado,Corporate,Central,Office Supplies,Phones,Board Western,405.5,7,0.2,33.21,57.92857143,324.4
+5ffbbc5a,2023-05-08,2023-04-20,Second Class,6665fe,Yesenia Farrell,Consumer,South,Office Supplies,Storage,Apply Born,432.54,10,0.34,187.86,43.254,285.4764
+f39c0612,2023-09-25,2023-11-08,Standard Class,7e26d6,William Taylor,Consumer,East,Technology,Paper,Oil Me,359.13,8,0.42,66.15,44.89125,208.2954
+ef479ab3,2024-08-18,2023-04-30,Second Class,0d523e,Jose Hernandez,Home Office,South,Technology,Paper,Book Front,368.57,7,0.22,19.93,52.65285714,287.4846
+b19d6650,2023-10-01,2024-09-12,Second Class,b1700f,Samantha Allen,Home Office,East,Office Supplies,Paper,Effect Report,162.22,1,0.49,63.15,162.22,82.7322
+8d852ba8,2024-03-04,2024-06-12,First Class,ebeede,Michael Greer,Consumer,Central,Furniture,Paper,Another Them,400.01,10,0.17,142.6,40.001,332.0083
+ccf37e95,2024-11-19,2023-08-21,First Class,1eb13e,Teresa Glenn,Home Office,South,Office Supplies,Tables,Likely Benefit,197.27,6,0.11,131.92,32.87833333,175.5703
+6ae97cea,2023-09-17,2024-05-08,Same Day,83c21f,James Mendoza,Home Office,South,Office Supplies,Tables,Half Off,382.89,3,0.23,27.6,127.63,294.8253
+20c92875,2024-07-02,2024-11-03,Standard Class,7c6fbc,Amy Parker,Corporate,East,Furniture,Phones,Economy Pass,252.99,5,0.5,132.45,50.598,126.495
+346c829a,2024-01-16,2023-05-23,Same Day,bf422c,Danielle Davis,Home Office,Central,Technology,Chairs,Within Simple,265.27,2,0.22,132.45,132.635,206.9106
+743d525f,2024-01-11,2023-10-22,First Class,428dc5,Charles Pierce,Consumer,South,Office Supplies,Phones,Position Second,411.03,7,0.46,24.3,58.71857143,221.9562
+6db5f195,2024-10-10,2023-10-14,Standard Class,6c08e0,Shawn Rosario,Consumer,East,Office Supplies,Chairs,Week Drive,382.65,9,0.04,147.41,42.51666667,367.344
+d174ce79,2023-05-02,2023-04-20,Same Day,fee90a,James Paul,Consumer,South,Technology,Phones,Question Exist,489.32,1,0.16,1.24,489.32,411.0288
+bcdc51de,2024-08-22,2023-05-23,Standard Class,295fa9,Jennifer Strong,Consumer,East,Technology,Binders,Ability Hard,357.22,3,0.15,144.34,119.0733333,303.637
+0a5ab935,2024-08-24,2023-12-09,Standard Class,151c9b,Michael Webb,Corporate,Central,Furniture,Chairs,Certainly Major,260.36,9,0.5,115.1,28.92888889,130.18
+e1aad8e6,2024-05-05,2023-05-29,Same Day,d9d8b8,Gregory Taylor,Consumer,West,Office Supplies,Paper,Tv Appear,33.48,8,0.49,74.61,4.185,17.0748
+b291c947,2025-01-19,2023-06-05,First Class,803932,Emily Duncan,Corporate,South,Office Supplies,Binders,Develop Then,267.48,8,0.34,155.96,33.435,176.5368
+264bff0a,2024-11-27,2023-08-01,Same Day,abb80d,Tammy Klein,Home Office,West,Technology,Storage,Ten Must,147.05,10,0.41,98.76,14.705,86.7595
+b71b2896,2024-12-10,2024-02-18,First Class,989493,Diana Wallace,Corporate,Central,Office Supplies,Binders,Still City,486.89,4,0.48,5.39,121.7225,253.1828
+0809858c,2023-05-19,2023-08-08,Second Class,d3dad9,Sarah Shah,Corporate,East,Technology,Storage,Top Base,192.66,1,0.4,128.83,192.66,115.596
+0aa2732a,2023-05-07,2023-12-05,First Class,c560b5,John Wright DVM,Consumer,West,Technology,Tables,However Expect,166.37,3,0.38,127.92,55.45666667,103.1494
+2d730491,2024-03-06,2024-01-17,Standard Class,48de20,Shelly Wright,Consumer,South,Furniture,Chairs,No Adult,192.25,4,0.2,192.03,48.0625,153.8
+e877b6f2,2024-09-27,2023-09-12,Second Class,2a28ac,Justin Mcintosh,Corporate,East,Office Supplies,Storage,Follow Would,246.45,3,0.27,89.24,82.15,179.9085
+98bb3e8f,2024-08-21,2024-11-08,First Class,b7b3ba,Tammy Calhoun,Home Office,Central,Furniture,Chairs,National Service,263.08,5,0.25,163.47,52.616,197.31
+d0236ce4,2023-08-01,2024-11-02,Second Class,4b6326,Tony Sanford,Consumer,Central,Furniture,Paper,Movement Than,28.74,8,0.18,14.62,3.5925,23.5668
+0e834eaf,2024-06-05,2023-05-05,Second Class,7aa19c,Barbara Matthews,Corporate,South,Technology,Phones,Although About,183.21,7,0.09,177.63,26.17285714,166.7211
+e7adfdff,2024-09-05,2023-06-06,First Class,7cb610,Jaime Torres,Consumer,West,Office Supplies,Tables,Plan Admit,226.49,10,0.44,173.28,22.649,126.8344
+8b9d55ee,2023-04-06,2024-08-26,Second Class,23b5a6,Shawn Ballard,Corporate,Central,Office Supplies,Chairs,Policy Everything,302.03,10,0.1,72.91,30.203,271.827
+1fc3452f,2023-11-05,2023-04-03,Same Day,2e8fb9,Benjamin Flynn,Consumer,South,Furniture,Storage,Law Black,48.23,7,0.34,62.76,6.89,31.8318
+14d87bf6,2023-04-19,2024-09-29,Standard Class,211382,Whitney Lopez,Home Office,Central,Technology,Tables,Drug Threat,263.11,6,0.37,72.74,43.85166667,165.7593
+97e0e79b,2023-12-30,2023-11-26,Standard Class,424998,Sandra Griffin,Home Office,South,Office Supplies,Tables,Trade He,112.44,10,0.4,95.28,11.244,67.464
+7d677c32,2023-05-31,2023-03-12,First Class,0f33b7,Kristin Acosta,Corporate,West,Office Supplies,Paper,Kid Tax,297.39,3,0.32,73.37,99.13,202.2252
+0cca8b45,2024-05-11,2024-01-06,Same Day,cb7d89,Adam Wright,Consumer,East,Furniture,Paper,Somebody Gun,416.74,7,0.19,153.8,59.53428571,337.5594
+51c1fd9e,2025-02-02,2023-09-16,Standard Class,58ae3d,Brittany Duncan,Corporate,West,Office Supplies,Storage,Now Property,491.13,7,0.29,117.93,70.16142857,348.7023
+93a88317,2023-05-05,2024-04-18,Standard Class,35e8cc,Sara Gilbert,Corporate,East,Office Supplies,Paper,Paper Beautiful,221.68,10,0.35,111.81,22.168,144.092
+ae8bbccb,2025-01-28,2023-06-09,Second Class,cccd81,Todd Reyes DVM,Corporate,East,Office Supplies,Binders,Ever Decide,430.97,7,0.4,124.17,61.56714286,258.582
+0791bfb3,2024-07-26,2024-01-07,Standard Class,587c63,Jeremy Peterson,Consumer,West,Technology,Chairs,Strategy Ten,63.66,6,0.41,102.2,10.61,37.5594
+1467de66,2024-02-11,2024-05-12,First Class,a07095,Laurie Juarez,Home Office,West,Office Supplies,Binders,Unit Believe,255.13,10,0.1,160.06,25.513,229.617
+c2711645,2023-07-29,2024-06-25,Second Class,8d6b35,Stephanie Rogers MD,Consumer,East,Furniture,Tables,Vote Career,404.2,6,0.29,61.35,67.36666667,286.982
+e85d7000,2024-03-16,2023-10-31,Same Day,552dc4,Hunter Atkins,Home Office,South,Technology,Binders,Ten Thing,453.84,6,0.31,180.28,75.64,313.1496
+e6c2f79b,2024-03-20,2023-11-25,First Class,c74874,Amanda Vang,Corporate,West,Office Supplies,Chairs,Well Difficult,31.79,5,0.05,132.43,6.358,30.2005
+5f1b22bb,2024-06-15,2023-04-27,Standard Class,bf5018,Patricia Cruz,Consumer,West,Office Supplies,Paper,Move Should,424.15,8,0.37,140.99,53.01875,267.2145
+aedcfba4,2024-11-20,2023-02-20,Same Day,8d9716,Brianna Schwartz,Consumer,Central,Technology,Binders,Believe Real,42.49,1,0.08,182.23,42.49,39.0908
+2c853d05,2024-08-28,2023-04-11,Second Class,a47796,Gregory Robinson,Corporate,East,Office Supplies,Tables,Particular Dinner,326.88,2,0.22,26.72,163.44,254.9664
+020ca92f,2023-09-07,2023-09-08,First Class,69b79b,Robert West,Corporate,West,Furniture,Binders,Onto Green,244.66,1,0.14,146.16,244.66,210.4076
+6a100aaf,2023-12-13,2023-04-28,Same Day,01b274,Ashley Jimenez,Home Office,South,Technology,Tables,Each Employee,217.2,7,0.18,163.57,31.02857143,178.104
+c648d85f,2024-06-29,2024-05-12,Second Class,a507f1,Jason Pierce,Corporate,East,Office Supplies,Chairs,Trip Couple,13.22,8,0.01,60.34,1.6525,13.0878
+c52ffcfe,2024-05-30,2023-11-28,First Class,e58318,Scott Hayden,Home Office,Central,Technology,Tables,Control Growth,286.16,9,0.49,91.54,31.79555556,145.9416
+d68a7fef,2023-11-14,2024-12-21,Standard Class,141804,Joshua Martinez,Home Office,East,Technology,Binders,By Voice,189.81,5,0.4,128.99,37.962,113.886
+2c30ca2c,2023-05-30,2024-08-17,Second Class,1fd05a,James Brock,Home Office,South,Office Supplies,Paper,Camera Throw,95.95,5,0.41,57.48,19.19,56.6105
+a54711e1,2023-06-30,2024-09-20,Second Class,3f15af,Christopher Hill,Home Office,South,Furniture,Chairs,Condition Candidate,76.35,6,0.15,110.6,12.725,64.8975
+9c404361,2024-06-29,2023-11-07,Standard Class,d1078f,Nancy Reyes,Consumer,West,Technology,Phones,Standard Since,379.37,8,0.04,81.32,47.42125,364.1952
+908c05d4,2023-11-06,2023-10-27,First Class,b8d06f,Donna Arnold,Home Office,West,Technology,Paper,Draw Relate,398.49,9,0.05,166.35,44.27666667,378.5655
+204032ec,2023-06-25,2024-01-02,Same Day,423b00,Kevin Taylor,Consumer,East,Office Supplies,Chairs,Yet Capital,244.88,6,0.05,17.25,40.81333333,232.636
+d1a67053,2024-05-02,2024-08-23,Same Day,ac12ec,Karen Morris DDS,Consumer,West,Office Supplies,Paper,As Share,492.07,9,0.13,62.11,54.67444444,428.1009
+4db345c7,2023-05-05,2025-01-23,Standard Class,4abb81,Ashley Vaughn,Corporate,Central,Technology,Storage,Act Which,40.31,3,0.16,196.92,13.43666667,33.8604
+05e3e9c4,2023-10-08,2024-06-06,Standard Class,5df23a,Kelly Owens,Home Office,South,Office Supplies,Binders,Never Throughout,461.58,8,0.03,100.94,57.6975,447.7326
+8a6c3cbd,2024-12-03,2023-02-28,Standard Class,518dd1,Heather Wiggins,Corporate,East,Office Supplies,Binders,Information Door,251.72,8,0.2,41.89,31.465,201.376
+c81c745a,2025-01-09,2023-06-15,Second Class,6edc45,Tara Diaz,Home Office,Central,Furniture,Paper,Image Night,189.11,6,0.21,29.01,31.51833333,149.3969
+28e35b81,2024-08-29,2024-07-27,Same Day,6323ef,Mary Mccoy,Corporate,West,Furniture,Tables,This Stay,328.96,9,0.3,113.28,36.55111111,230.272
+71394aa8,2024-09-06,2024-05-17,Second Class,359ed5,George Farmer,Corporate,South,Furniture,Phones,Doctor Condition,85.63,7,0.5,87.54,12.23285714,42.815
+d7718a9c,2023-07-18,2023-07-06,Second Class,e1a076,Michael Stone,Consumer,West,Technology,Paper,Example Performance,290.51,2,0.26,45.47,145.255,214.9774
+580f5b38,2023-10-03,2024-02-02,Same Day,a5c8f9,Dennis Hartman,Corporate,South,Furniture,Tables,Answer Particular,251.5,5,0.09,127.21,50.3,228.865
+96fdc5e5,2023-10-26,2023-09-05,Same Day,fc3f69,Gina Miles,Consumer,South,Office Supplies,Paper,Organization Accept,37.34,5,0.13,96.31,7.468,32.4858
+7ffe4745,2024-12-09,2023-08-12,Second Class,188ae8,Edward Bowman,Corporate,West,Technology,Binders,Resource Heavy,430.15,2,0.43,156.34,215.075,245.1855
+66cc2371,2023-10-14,2023-09-10,Second Class,2f8168,Felicia Stewart,Consumer,East,Furniture,Paper,Foreign Better,353.37,7,0.27,129.89,50.48142857,257.9601
+13113a03,2024-11-18,2024-02-23,Standard Class,20b08a,James Jones,Consumer,South,Furniture,Binders,Describe Few,206.76,4,0.33,197.55,51.69,138.5292
+030a20e1,2024-01-14,2024-02-23,Same Day,42bd11,Larry Atkinson,Home Office,East,Furniture,Phones,Voice Since,81.93,6,0.31,16.31,13.655,56.5317
+7cd11515,2024-02-27,2023-06-29,First Class,4ae170,Edward Booker,Home Office,East,Office Supplies,Storage,Firm Yes,217.63,4,0.48,193.54,54.4075,113.1676
+f946ca99,2025-02-09,2023-02-25,Same Day,9cf2ed,Shawna Morgan,Corporate,West,Furniture,Phones,Dream Bag,327.49,2,0.2,39.68,163.745,261.992
+857f251c,2024-05-21,2023-04-02,Second Class,fd8dfc,Joshua Moore,Home Office,South,Office Supplies,Chairs,Air Speak,129.07,1,0.49,159.36,129.07,65.8257
+690a7a0f,2024-01-04,2023-03-01,First Class,ea607f,Holly King,Consumer,Central,Office Supplies,Chairs,Here Mrs,173.16,2,0.46,28.93,86.58,93.5064
+cdad0097,2023-07-23,2024-01-31,First Class,40f436,Jacob Murphy,Consumer,West,Technology,Storage,Discussion Hour,314.79,5,0.13,191.67,62.958,273.8673
+7905d0b2,2023-07-20,2024-10-23,Standard Class,33c15f,Jeanne Howard,Corporate,West,Technology,Phones,Prove Hope,241.48,3,0.34,10.82,80.49333333,159.3768
+e024b4e6,2024-11-17,2023-03-21,Second Class,a0ef0a,Rachel Jackson,Corporate,South,Technology,Tables,Discuss Mention,334.95,6,0.45,134.28,55.825,184.2225
+bfd93c22,2023-08-19,2024-10-07,Standard Class,5ceb5a,Jamie Barber,Home Office,West,Technology,Tables,Sure Fact,186.08,5,0.15,51.7,37.216,158.168
+0d55a419,2024-09-05,2024-08-30,Second Class,3a79be,Thomas Gutierrez,Consumer,East,Technology,Storage,Including Body,414.28,9,0.16,111.76,46.03111111,347.9952
+0335951b,2024-01-07,2023-11-26,Second Class,a8464f,Mary Navarro,Consumer,Central,Office Supplies,Binders,Building Like,138.1,5,0.15,47.18,27.62,117.385
+c9efd57f,2024-09-18,2024-11-12,First Class,f7d57a,Sarah Booth PhD,Corporate,South,Furniture,Storage,Hear Pm,298.52,8,0.19,29.17,37.315,241.8012
+4fed94b5,2023-11-09,2023-05-25,Second Class,c3b2b1,Shari Howard MD,Home Office,West,Furniture,Phones,Church Enough,209.57,6,0.04,45.74,34.92833333,201.1872
+9de375bd,2024-08-25,2025-01-07,First Class,6851d1,Mark Bullock,Corporate,East,Furniture,Phones,Here Whether,411.63,10,0.48,198.84,41.163,214.0476
+a0243283,2024-11-13,2023-03-17,Same Day,fb03ed,Glen Mccarty,Home Office,South,Furniture,Storage,Pressure Even,100.79,1,0.1,182.74,100.79,90.711
+d9130c54,2024-05-08,2023-06-13,Standard Class,9c2c5d,Andre Meza,Consumer,East,Furniture,Chairs,Learn Church,158.57,2,0.05,36.35,79.285,150.6415
+d7ed7aa2,2023-09-12,2025-01-11,Second Class,1a691d,Brian Pena,Consumer,West,Office Supplies,Paper,If Peace,433.01,5,0.19,181.85,86.602,350.7381
+e44c404c,2024-04-23,2024-07-03,Standard Class,3bda5c,Cody Schwartz,Corporate,West,Office Supplies,Binders,Though Blood,10.53,3,0.1,119.03,3.51,9.477
+6625de7a,2023-05-02,2023-10-11,Standard Class,8638c0,Mrs. Jessica Jones,Corporate,Central,Technology,Phones,Machine Scientist,364.3,4,0.43,173.71,91.075,207.651
+5c31676e,2023-03-04,2023-07-07,Second Class,e7ccfb,Michael Miller,Corporate,South,Furniture,Tables,Continue Home,408.06,5,0.46,173,81.612,220.3524
+ded28e20,2024-07-25,2023-07-30,Standard Class,ef4dac,Brenda Harris,Consumer,East,Office Supplies,Storage,Where Change,69.54,2,0.1,67.04,34.77,62.586
+4a31b7b7,2023-04-17,2025-01-26,First Class,9a98df,Carmen Jones,Home Office,West,Furniture,Storage,Finally Guy,150.14,8,0.19,131.37,18.7675,121.6134
+d2683830,2024-01-11,2024-06-21,First Class,737799,Brian Collins,Consumer,West,Furniture,Phones,Even Idea,64.03,6,0.28,122.35,10.67166667,46.1016
+f0d50053,2024-02-24,2024-07-09,Same Day,aa2bf3,Larry Estrada,Home Office,Central,Technology,Binders,Mouth Simply,488.92,9,0.06,34.41,54.32444444,459.5848
+ae3f4c3a,2024-07-29,2024-03-19,Second Class,cfbd0e,Brenda Arnold,Home Office,East,Technology,Binders,Card Once,268.28,1,0.13,103.53,268.28,233.4036
+6ccdc724,2023-04-21,2024-01-22,Second Class,cfb3a2,Chad Travis,Consumer,Central,Technology,Chairs,From Gas,337.98,6,0.46,167.39,56.33,182.5092
+7f4c6c4c,2024-02-02,2024-08-23,Second Class,8bce8f,Dr. Michelle Fisher MD,Consumer,West,Technology,Storage,Whom Yard,28.14,6,0.01,20.48,4.69,27.8586
+0ade97ee,2024-12-11,2025-01-20,Same Day,d12b23,Audrey Hunter,Corporate,South,Furniture,Binders,Same Degree,393.31,4,0.03,136.23,98.3275,381.5107
+ee51a255,2024-03-10,2023-11-12,First Class,fb59fb,Max Beasley,Consumer,Central,Furniture,Tables,Now Finish,219.9,6,0.46,181.86,36.65,118.746
+acff46b6,2024-04-19,2024-04-28,Second Class,24ecbe,Morgan Johnson,Consumer,West,Furniture,Paper,Present Will,312.04,7,0.25,52.53,44.57714286,234.03
+4d017d76,2025-02-11,2024-04-29,First Class,f3b093,Andrea King,Home Office,Central,Office Supplies,Phones,We Life,113.32,1,0.24,34.4,113.32,86.1232
+d4ac275d,2023-11-18,2023-05-07,Same Day,e991af,Jordan Moran MD,Corporate,Central,Technology,Binders,Reason Rise,175.19,10,0.39,124.72,17.519,106.8659
+087835fd,2023-07-02,2023-12-18,Standard Class,853451,Kathleen Lee,Home Office,East,Technology,Paper,Sometimes Husband,254.19,9,0.07,168.32,28.24333333,236.3967
+30d17c4f,2024-02-07,2023-03-02,Same Day,191784,Stephanie Davenport,Consumer,South,Furniture,Phones,Program Nice,387.44,10,0.49,92.91,38.744,197.5944
+528cf304,2023-09-27,2024-05-02,First Class,9b9aa2,Jonathan Mcdonald,Consumer,Central,Technology,Binders,May Stuff,487.97,5,0.21,194.73,97.594,385.4963
+54d88979,2024-09-13,2023-07-19,Standard Class,df491e,Thomas Wright,Corporate,West,Technology,Paper,Kid Personal,279.54,10,0.37,11.97,27.954,176.1102
+3f095357,2024-09-04,2023-03-10,First Class,fffe48,Eric Nichols,Consumer,South,Office Supplies,Binders,Hair Will,30.69,1,0.28,163.66,30.69,22.0968
+468c6b8f,2025-01-15,2024-02-15,First Class,266a2f,Luke Rose,Consumer,South,Technology,Storage,Public Medical,378.1,7,0.08,107.68,54.01428571,347.852
+74c968c0,2024-07-12,2024-03-31,Standard Class,3d6b1b,Robert Smith,Consumer,South,Furniture,Phones,Yeah Onto,244.02,8,0.49,30.91,30.5025,124.4502
+a590a439,2023-03-02,2023-03-26,First Class,f13f97,Jessica Murphy,Corporate,South,Furniture,Chairs,Win On,491.48,8,0.41,122.89,61.435,289.9732
+41561b9f,2023-07-12,2024-08-18,Same Day,7f311d,Tyler Hunter,Corporate,Central,Technology,Tables,Especially Really,189.76,8,0.35,181.77,23.72,123.344
+9a54bae4,2023-11-23,2023-03-05,Standard Class,ebe87e,Diana Montgomery,Corporate,Central,Technology,Binders,Act Knowledge,297.04,7,0.32,195.98,42.43428571,201.9872
+3144c4dc,2023-08-20,2024-11-23,Same Day,010b6f,Stephanie Norton,Home Office,South,Office Supplies,Chairs,Painting Course,73.27,3,0.49,60.81,24.42333333,37.3677
+48cec7cc,2024-01-18,2024-09-18,Same Day,813c5d,George Sanford,Consumer,East,Technology,Tables,Try Project,82.13,9,0.36,131.93,9.125555556,52.5632
+d9978b8a,2024-09-20,2024-06-16,Same Day,978228,Kimberly Berry,Corporate,Central,Office Supplies,Binders,Building That,190.68,1,0.26,35.3,190.68,141.1032
+5ca176a8,2024-08-23,2024-05-29,First Class,0a42b3,Colton Cochran,Corporate,West,Office Supplies,Phones,Detail Quite,97.13,8,0.47,23.86,12.14125,51.4789
+6634df3e,2023-12-25,2023-06-16,First Class,aac5ef,David Wyatt,Consumer,Central,Technology,Binders,Cause Act,256.06,8,0.39,125.72,32.0075,156.1966
+f93013d6,2024-12-01,2024-05-20,Same Day,711bb3,Daniel House,Corporate,Central,Technology,Binders,Deep Mission,236.29,6,0.25,121.63,39.38166667,177.2175
+009c7429,2023-02-13,2024-08-21,First Class,850cc3,Rhonda Evans,Corporate,Central,Office Supplies,Tables,Exist Deal,240.32,3,0.27,97.75,80.10666667,175.4336
+7cfdfd7d,2024-04-03,2024-07-04,First Class,eeb628,Ian Duran,Consumer,West,Technology,Chairs,Social Challenge,241.26,4,0.1,92.22,60.315,217.134
+0d249405,2024-10-06,2024-11-14,Standard Class,e55c60,Vincent Jones,Corporate,South,Office Supplies,Paper,Image Allow,353.95,9,0.15,27.45,39.32777778,300.8575
+6c3e238d,2023-09-19,2023-08-06,Second Class,ec82e0,Charles Nielsen,Consumer,West,Furniture,Binders,Himself New,300.98,8,0.34,104.37,37.6225,198.6468
+867a057f,2023-12-10,2024-10-05,Same Day,761fee,Joshua Buchanan,Corporate,South,Technology,Chairs,Success Customer,381.81,2,0.26,181.45,190.905,282.5394
+2f08199b,2025-01-24,2024-12-01,First Class,09658a,Stacy Martinez,Corporate,West,Office Supplies,Phones,Arm Each,245.96,1,0.18,148.22,245.96,201.6872
+4d9fa96c,2023-10-08,2023-09-27,Standard Class,6b3a04,Theresa Graham,Home Office,West,Technology,Storage,Or Important,240.87,1,0.24,79.27,240.87,183.0612
+a3011736,2024-12-14,2023-03-20,First Class,e63d6b,Ronald Bartlett,Consumer,East,Technology,Storage,Gun Stop,211.53,2,0.33,94.07,105.765,141.7251
+d78e054b,2023-12-27,2024-02-29,Standard Class,ab4292,Sonya Park,Home Office,West,Technology,Tables,Develop Human,146.11,9,0.45,175.88,16.23444444,80.3605
+f61f42b4,2024-11-29,2023-05-26,First Class,97697c,Thomas King,Corporate,East,Technology,Storage,As Available,338.56,6,0.02,195.59,56.42666667,331.7888
+e2c81cab,2024-06-23,2023-04-21,Second Class,d4990d,Mark Robinson,Consumer,West,Furniture,Paper,Especially Soldier,493.97,3,0.39,100.83,164.6566667,301.3217
+53f5f435,2024-09-02,2023-10-18,Standard Class,024513,Melissa Jones,Home Office,East,Furniture,Chairs,Outside Collection,8.61,4,0.04,129.57,2.1525,8.2656
+aa26c66f,2024-06-01,2024-05-28,Same Day,0bde68,Jennifer Johnson,Corporate,West,Office Supplies,Tables,Company Easy,205.15,8,0.23,46.37,25.64375,157.9655
+a027e242,2023-10-12,2023-08-29,Same Day,68bf21,Carol Wilson,Corporate,West,Furniture,Paper,Onto Argue,402.11,6,0.25,136.48,67.01833333,301.5825
+6b3a80d7,2024-05-28,2024-01-26,First Class,32447e,Patricia Baker,Corporate,East,Technology,Paper,Truth Century,484.44,7,0.26,72.84,69.20571429,358.4856
+6891a886,2024-05-23,2023-07-22,First Class,a47ebf,William Baker,Home Office,Central,Office Supplies,Phones,Pick Imagine,50.37,1,0.13,10.45,50.37,43.8219
+18f67c01,2023-03-08,2023-10-09,First Class,89e32c,Katie Larsen,Home Office,West,Furniture,Binders,Cup Magazine,181.42,8,0.04,10.85,22.6775,174.1632
+8e843104,2023-07-15,2023-08-07,Second Class,ec24fb,Caroline Osborn,Home Office,South,Office Supplies,Storage,Happy Visit,312.56,8,0.36,71.24,39.07,200.0384
+93b935d7,2023-07-28,2023-02-14,Standard Class,0f74b7,Warren Lane,Corporate,East,Technology,Storage,Land Say,207.47,7,0.09,37.44,29.63857143,188.7977
+6c800b8b,2024-08-31,2023-06-19,Standard Class,5353ba,Wendy Larson,Consumer,West,Furniture,Tables,Available Per,211.62,4,0.02,30.97,52.905,207.3876
+fe353c0c,2023-08-28,2024-02-11,Standard Class,d882f4,Glen Dorsey,Corporate,East,Technology,Binders,Keep Market,240.61,9,0.42,84.35,26.73444444,139.5538
+06019e04,2023-10-28,2024-02-05,Second Class,6b36ca,Jeremy Sims,Corporate,East,Furniture,Chairs,Common Democratic,389.03,10,0,73.71,38.903,389.03
+00fc979e,2024-06-15,2024-05-01,First Class,9ba143,Amy Harper,Home Office,South,Office Supplies,Phones,True Enter,11.48,6,0.45,172.05,1.913333333,6.314
+3736ef8d,2024-08-02,2024-03-16,Same Day,ef0331,Ronald Smith,Corporate,West,Furniture,Phones,Begin School,457.97,3,0.22,42.14,152.6566667,357.2166
+54cba425,2024-06-29,2023-12-31,Standard Class,4f8692,Karen Smith,Home Office,Central,Technology,Binders,Magazine Operation,357.44,5,0.47,55.06,71.488,189.4432
+46b60ade,2024-01-23,2023-04-18,First Class,efc72c,Michelle Rush,Home Office,Central,Furniture,Chairs,Positive Health,489.43,7,0.09,132.92,69.91857143,445.3813
+874ece37,2023-03-05,2025-01-07,Same Day,84b93b,Tracy Dyer,Home Office,East,Technology,Storage,Imagine Field,390.23,2,0.18,155.88,195.115,319.9886
+3f270e2e,2024-05-17,2024-02-13,Standard Class,0f4b0a,Evan Davis DDS,Corporate,South,Technology,Binders,Natural Where,170.01,10,0.32,113.33,17.001,115.6068
+65238625,2023-03-29,2023-04-02,Same Day,2bc960,Meagan Dunlap,Home Office,East,Office Supplies,Tables,Interesting Type,226.57,10,0.12,118.27,22.657,199.3816
+3dc6ab7a,2024-09-22,2024-02-08,Same Day,a9b77b,Michael Duncan,Consumer,East,Furniture,Storage,Girl Best,290.09,6,0.45,196.49,48.34833333,159.5495
+855f68b8,2023-05-05,2024-10-08,Standard Class,70e2d4,Emily Rivers,Consumer,South,Office Supplies,Chairs,Model First,267.38,8,0.08,48.23,33.4225,245.9896
+f68676e3,2024-10-29,2024-01-31,First Class,9b3c13,Ian Gibbs,Consumer,South,Office Supplies,Storage,Too Happy,338.88,4,0,1.01,84.72,338.88
+eb1cf792,2024-09-22,2024-10-30,First Class,2d551f,Mason Tran,Consumer,South,Furniture,Tables,Event Let,165.2,9,0.39,109.45,18.35555556,100.772
+a94b5aaf,2025-02-03,2024-03-01,First Class,98fce8,Kimberly Ward,Consumer,East,Office Supplies,Chairs,Line Thus,365.96,6,0.47,63.53,60.99333333,193.9588
+434b3b4d,2024-01-17,2023-05-20,Standard Class,443227,Mr. Nathaniel Davis,Consumer,Central,Technology,Phones,Than Role,387.14,1,0.35,27.5,387.14,251.641
+c9a8f3d4,2024-02-11,2024-12-01,First Class,8ece8a,Jeff Leon,Consumer,East,Office Supplies,Chairs,Man Shake,451.06,4,0.3,168.03,112.765,315.742
+44456114,2024-01-06,2023-07-25,Standard Class,bd1582,Michael Oliver,Corporate,East,Office Supplies,Binders,Court By,177.45,10,0.06,20.62,17.745,166.803
+3d7823c2,2024-01-23,2024-10-07,Same Day,62de01,James Burns,Home Office,Central,Technology,Chairs,Alone Customer,14.84,7,0.33,127.47,2.12,9.9428
+d730873e,2023-07-16,2025-01-28,First Class,af556e,Daniel Garcia,Home Office,Central,Furniture,Binders,Southern Article,89.08,8,0.1,137.59,11.135,80.172
+21cc4ab2,2024-11-26,2024-03-06,Standard Class,ea2f44,Lisa Logan,Corporate,East,Office Supplies,Storage,Our International,67.21,7,0.2,63.93,9.601428571,53.768
+10afa86d,2024-11-20,2024-02-22,Same Day,1de21f,Rebecca Perkins,Corporate,South,Furniture,Phones,Mention Style,274.97,8,0.43,193.33,34.37125,156.7329
+8db2cbe8,2023-03-26,2024-01-30,Same Day,485f70,Lori Melendez,Consumer,East,Furniture,Chairs,Service Stand,106.71,1,0.48,95.06,106.71,55.4892
+1558ed19,2024-06-20,2024-09-18,Standard Class,0fbc3a,Michael Kent,Home Office,Central,Technology,Storage,Rock American,110.24,9,0.44,127,12.24888889,61.7344
+7d45c51f,2023-09-25,2024-12-30,Same Day,08651a,Diana Yang,Corporate,West,Technology,Tables,Idea Firm,364.8,7,0.01,143.26,52.11428571,361.152
+e8643960,2025-01-27,2023-10-30,Standard Class,f8dfdb,Scott Randall,Corporate,Central,Office Supplies,Chairs,Far Yet,467.61,3,0.07,199.54,155.87,434.8773
+e4331a73,2024-01-10,2024-02-19,Second Class,dd1cbf,Jenny Nelson,Consumer,Central,Technology,Chairs,Parent Floor,360.93,7,0.24,116.67,51.56142857,274.3068
+eaff4517,2025-01-28,2024-04-02,First Class,9a3487,Leslie Underwood,Consumer,East,Furniture,Paper,New With,190.04,1,0.26,136.51,190.04,140.6296
+6b688a58,2024-05-29,2023-09-19,Second Class,3fce0a,Lauren Harris,Corporate,East,Technology,Binders,Realize Effect,467.18,8,0.31,120.44,58.3975,322.3542
+ee18355d,2023-11-24,2023-11-11,Same Day,c02502,Robert Curry DDS,Consumer,West,Technology,Phones,Shake Total,184.87,5,0.03,38.35,36.974,179.3239
+cb3380fa,2024-02-28,2024-03-13,Same Day,4b2127,Andrew Dixon,Home Office,South,Furniture,Paper,Professional System,256.52,9,0.05,175.76,28.50222222,243.694
+577ac9f4,2023-08-28,2024-08-07,Same Day,071fe1,Marilyn Matthews,Home Office,South,Technology,Binders,Rest Audience,309.61,10,0.22,180.28,30.961,241.4958
+6b395885,2023-06-27,2023-12-02,First Class,38ced0,Elizabeth Jones MD,Corporate,South,Technology,Chairs,Huge Go,168.19,6,0.13,157.59,28.03166667,146.3253
+767b5114,2023-12-02,2024-05-06,Standard Class,71432a,Jerry Bell,Corporate,South,Technology,Tables,Method Or,275.01,1,0.01,2.81,275.01,272.2599
+e0536549,2024-04-20,2023-07-01,First Class,0f5a35,Christine Cook,Consumer,East,Technology,Storage,However Billion,372.81,3,0.32,124.99,124.27,253.5108
+2fe208dd,2023-10-21,2023-06-01,Second Class,c7afe2,Kimberly Vincent,Home Office,West,Technology,Paper,Usually News,178.33,6,0.22,31.46,29.72166667,139.0974
+8f1334e5,2024-05-10,2024-02-07,Second Class,d764ed,Ann Brown,Consumer,Central,Technology,Chairs,Cost Money,111.7,7,0.18,42.24,15.95714286,91.594
+09e2eee4,2023-10-05,2023-05-19,Same Day,0a38b4,James Jones,Consumer,South,Technology,Paper,Wrong Kid,24.48,4,0.03,141.91,6.12,23.7456
+714aea84,2023-03-26,2023-11-17,Same Day,3547c1,Noah Clayton,Home Office,East,Office Supplies,Chairs,Happy While,94.94,9,0.4,132.58,10.54888889,56.964
+3da18881,2024-09-14,2023-10-05,Second Class,144283,Charles Hunt,Home Office,South,Furniture,Storage,Open Once,318.34,1,0.2,102.1,318.34,254.672
+3eacda72,2023-11-14,2024-10-10,First Class,de8709,Mark Murphy,Consumer,West,Office Supplies,Phones,Apply South,370.3,7,0.33,191.65,52.9,248.101
+bf5681d4,2024-11-04,2023-12-02,Standard Class,161392,Gregory Hall,Corporate,East,Office Supplies,Chairs,Wrong Might,9.81,1,0.32,15.23,9.81,6.6708
+c1e40545,2024-10-20,2023-12-15,Second Class,d7cae5,Kevin Walton,Home Office,South,Office Supplies,Tables,Star Table,310.78,6,0.08,186.75,51.79666667,285.9176
+ed381b90,2023-04-27,2024-06-21,Standard Class,e33752,Sandra Lee,Corporate,West,Office Supplies,Chairs,Only See,288.21,9,0.26,177.28,32.02333333,213.2754
+c955707d,2023-02-15,2023-09-21,Same Day,557c8b,Erin Simmons PhD,Consumer,South,Office Supplies,Paper,Suffer Life,267.07,4,0.06,108.2,66.7675,251.0458
+2e824023,2023-07-28,2024-02-19,First Class,6aa0c2,Mario Herring,Consumer,South,Office Supplies,Phones,Until Want,175.82,9,0.05,57.56,19.53555556,167.029
+883f4969,2023-08-06,2023-10-22,Standard Class,684b5b,Jordan Smith,Consumer,South,Technology,Storage,Risk College,79.57,8,0.09,109.46,9.94625,72.4087
+728625b8,2024-06-06,2023-10-27,Standard Class,b0b75f,Mario Terrell,Consumer,West,Furniture,Tables,Democrat Ok,242.55,4,0.29,156.13,60.6375,172.2105
+d0d27ab8,2024-01-26,2025-01-10,Same Day,8b1630,Steve Figueroa,Consumer,East,Office Supplies,Tables,Improve Choose,188.63,4,0.49,92.17,47.1575,96.2013
+c8c68ba7,2024-07-08,2023-04-03,Standard Class,84c585,Joseph Wilson,Home Office,East,Technology,Storage,Back Still,165.35,6,0.08,69.22,27.55833333,152.122
+57de27e1,2023-07-29,2023-10-26,Same Day,652e05,Justin Mills,Consumer,South,Office Supplies,Phones,Age Election,183.75,8,0.01,141.48,22.96875,181.9125
+b0cc1355,2025-01-12,2023-03-12,First Class,6d5394,Jordan Haley,Consumer,East,Office Supplies,Paper,Over Animal,102.82,1,0.45,42.27,102.82,56.551
+030ad599,2023-06-06,2024-09-20,First Class,d95bb1,Mr. Brian Rosales,Corporate,Central,Furniture,Binders,Laugh Natural,347.6,1,0.39,2.58,347.6,212.036
+2a186b56,2023-12-09,2023-11-15,Standard Class,2d8e28,Bryan Hawkins,Consumer,South,Technology,Chairs,They Ok,292.04,2,0.22,77.73,146.02,227.7912
+a0cd7d93,2024-12-15,2024-03-23,Standard Class,e937ed,Samantha Benson,Corporate,East,Furniture,Storage,Force Everyone,363.15,8,0.37,56.72,45.39375,228.7845
+e67b3f90,2024-08-26,2023-11-25,First Class,3e78a3,Joshua Gray,Home Office,East,Office Supplies,Binders,Wife Research,208.19,5,0.43,123.65,41.638,118.6683
+ed331e53,2023-10-05,2023-04-01,First Class,b47766,Michael Stephens,Consumer,East,Office Supplies,Phones,Population She,468.9,2,0.03,72.35,234.45,454.833
+a3414e06,2023-10-07,2024-08-08,First Class,f0964f,Alejandra Davis,Home Office,West,Office Supplies,Phones,Feel Entire,148.86,1,0.26,136,148.86,110.1564
+6761a15d,2024-01-12,2023-11-01,Same Day,33c8cd,Courtney Blake,Consumer,South,Furniture,Phones,Tv Feeling,71.72,3,0.47,181.62,23.90666667,38.0116
+a1ae8dc4,2024-07-03,2023-10-19,First Class,a8e879,Richard Lopez,Corporate,West,Office Supplies,Storage,Account Agreement,451.37,3,0.06,78.84,150.4566667,424.2878
+22ee7795,2024-09-03,2025-01-10,Second Class,7160ec,Vicki Phillips,Home Office,Central,Technology,Tables,Product Pull,150.9,7,0.26,188.71,21.55714286,111.666
+d6c874a8,2024-02-06,2023-03-11,Same Day,c56700,Dana Hood,Corporate,West,Technology,Paper,Response Training,166.32,1,0.15,42.76,166.32,141.372
+4351ff12,2024-06-15,2024-12-24,Same Day,841654,Ashley Foster,Home Office,Central,Furniture,Chairs,Light Full,193.87,5,0.06,91.84,38.774,182.2378
+ae33f092,2024-07-03,2023-02-22,Second Class,50adf1,Joel Sherman,Home Office,West,Technology,Storage,Real Score,78.53,3,0.49,150.87,26.17666667,40.0503
+79391c5a,2023-12-07,2023-05-01,Second Class,76f850,Janet Wolfe,Home Office,East,Office Supplies,Tables,Difference Well,97.75,5,0.17,114.26,19.55,81.1325
+402a5ad0,2023-04-28,2023-03-20,Standard Class,37c425,Nathaniel Hunt,Home Office,East,Technology,Tables,Certain Represent,490.14,3,0.4,165.72,163.38,294.084
+e112b1f8,2023-03-04,2024-07-05,Same Day,c4aece,Tiffany Navarro,Home Office,Central,Technology,Chairs,It Front,399.71,4,0.25,21.6,99.9275,299.7825
+ee9f3c8d,2023-07-06,2023-04-25,Standard Class,fc50de,Deborah Smith,Home Office,West,Technology,Binders,At Win,429.09,8,0.22,162.79,53.63625,334.6902
+e53f499b,2023-12-07,2023-10-19,Second Class,5f22fb,Samantha May,Consumer,West,Furniture,Tables,Girl Name,86.29,7,0.08,100.84,12.32714286,79.3868
+cf941ad8,2024-07-11,2023-04-13,Second Class,52334f,Janice Huber,Corporate,East,Furniture,Binders,Situation Whose,275.01,7,0.39,127.31,39.28714286,167.7561
+107e3c59,2023-02-23,2024-04-13,Second Class,894674,Bethany Rivers,Consumer,Central,Office Supplies,Tables,Nothing Week,374.71,4,0.13,195.67,93.6775,325.9977
+68a99305,2023-12-17,2023-09-14,Same Day,12290e,Michael Hoover,Consumer,South,Technology,Storage,Laugh Food,288.83,10,0.14,192.25,28.883,248.3938
+f098fbc5,2023-07-28,2024-10-21,Second Class,daddde,Danielle Norton,Consumer,West,Furniture,Phones,Page Stay,34.42,9,0.23,62.79,3.824444444,26.5034
+42ca236e,2024-10-19,2023-11-28,Same Day,e94a41,Denise Johnson,Home Office,South,Office Supplies,Paper,Administration Fine,320.31,8,0.2,154.26,40.03875,256.248
+9b476f6a,2023-12-07,2025-02-05,Second Class,791fd2,Miguel Lee,Consumer,South,Technology,Storage,Pressure Green,119.63,7,0.28,157.43,17.09,86.1336
+c54bb93c,2024-04-09,2025-02-08,Standard Class,78f810,Corey Brown,Consumer,East,Technology,Paper,Investment Money,429.47,9,0,100.45,47.71888889,429.47
+28d7192b,2023-03-30,2023-11-06,First Class,6b5018,Joseph Hernandez,Consumer,West,Technology,Storage,There Specific,126.89,2,0.47,82.61,63.445,67.2517
+4e239b32,2024-03-04,2024-07-21,Standard Class,a83a25,Nicole Wilson,Consumer,West,Technology,Binders,Pick Democratic,166.51,1,0.15,66.6,166.51,141.5335
+5b453dcd,2023-10-08,2023-08-19,Same Day,9bca40,Lisa Wagner,Home Office,West,Office Supplies,Storage,Certainly Fly,416.92,1,0.13,144.77,416.92,362.7204
+680eec2e,2023-11-03,2024-12-17,Second Class,c6847c,Paul Schmidt,Home Office,East,Technology,Tables,Wife Gas,69.46,4,0.42,20.77,17.365,40.2868
+77443bef,2024-01-24,2024-11-12,Second Class,1f2862,Rachel Brown,Corporate,Central,Technology,Tables,Environment Special,18.67,1,0.31,123.71,18.67,12.8823
+17f8d106,2025-01-01,2025-02-08,Same Day,612f89,Max Roberts,Home Office,Central,Furniture,Chairs,Time Natural,98.76,10,0.02,199.95,9.876,96.7848
+a140b987,2025-02-09,2023-10-10,First Class,69e22d,Robert Gordon,Corporate,East,Furniture,Binders,Our Gas,15.9,9,0.14,94.19,1.766666667,13.674
+b716a269,2025-02-04,2023-02-17,Same Day,4a5e68,Timothy Andersen,Consumer,East,Technology,Storage,Include Certainly,294.2,10,0.42,80.1,29.42,170.636
+6813ef7c,2025-01-21,2024-09-06,First Class,d71e6b,Michelle Davis,Home Office,East,Furniture,Binders,Mission People,9.6,9,0.45,16.9,1.066666667,5.28
+cc442bfe,2023-07-24,2024-05-30,Second Class,16018e,Justin Gaines,Home Office,Central,Furniture,Paper,Buy Among,186.85,10,0.17,109.58,18.685,155.0855
+028c4fd5,2024-07-27,2023-05-27,First Class,5eed43,Ryan Riley,Home Office,Central,Office Supplies,Tables,Environmental Amount,352.29,5,0.13,23.86,70.458,306.4923
+a527013e,2024-11-16,2024-07-06,First Class,04cb46,Dennis Young,Corporate,Central,Furniture,Paper,Task Vote,289.16,4,0.03,122.37,72.29,280.4852
+736f9526,2024-06-08,2023-10-22,First Class,aeb9b4,Abigail Conley,Corporate,South,Furniture,Paper,Serve Dog,206.64,1,0.17,122.96,206.64,171.5112
+bd7496db,2024-02-17,2024-08-10,Same Day,1bca88,Shawn Gould,Corporate,Central,Office Supplies,Tables,Town During,463.74,3,0.09,7.89,154.58,422.0034
+090073b4,2023-10-12,2024-10-09,First Class,10d1cd,James Lee,Consumer,South,Technology,Phones,This Let,367.19,1,0.42,124.48,367.19,212.9702
+3ddd2833,2023-07-02,2024-06-27,Second Class,2e2395,Zachary Thomas,Consumer,Central,Technology,Binders,Great Most,328.12,7,0.12,4.86,46.87428571,288.7456
+b5ddf7e0,2023-09-06,2025-01-31,Same Day,68b1aa,Samantha Williams,Home Office,West,Technology,Chairs,Want Site,204.51,5,0.45,139.94,40.902,112.4805
+010ca24d,2024-05-02,2023-12-29,Second Class,a15710,Taylor Lamb,Corporate,West,Furniture,Phones,From Imagine,243.77,2,0.25,148.05,121.885,182.8275
+add6e176,2024-03-26,2023-07-03,First Class,3db1b4,Angela Villanueva,Home Office,Central,Technology,Tables,Read Side,173.33,3,0.33,160.76,57.77666667,116.1311
+da152d59,2024-04-16,2023-09-21,Second Class,4bd1f9,Vincent Carpenter,Consumer,South,Technology,Storage,Team Else,80.62,2,0.12,92.96,40.31,70.9456
+52d8ab1c,2025-02-04,2024-10-09,Same Day,63aba4,Jeffrey Coleman,Corporate,West,Furniture,Binders,Which Plant,281.77,6,0.17,44.06,46.96166667,233.8691
+d4f61839,2023-05-09,2023-06-17,Second Class,357e6a,Jose Lester,Home Office,East,Office Supplies,Storage,Material Help,5.84,2,0.26,103.26,2.92,4.3216
+443600ab,2024-09-23,2024-07-03,First Class,8ba21c,Anthony Wilson,Home Office,East,Technology,Chairs,Anything Glass,339.41,8,0.31,188.21,42.42625,234.1929
+54527e92,2023-03-09,2023-02-28,Same Day,85c5e5,Justin Medina,Corporate,West,Furniture,Tables,Simple Right,141.62,7,0.32,63.62,20.23142857,96.3016
+92feabab,2023-05-28,2023-10-04,Same Day,ca9d8e,Connor Anderson,Home Office,West,Office Supplies,Tables,Second Herself,357.93,5,0.39,23.78,71.586,218.3373
+2cf682d3,2024-10-25,2023-11-20,First Class,c1f832,Willie Swanson,Corporate,West,Office Supplies,Tables,Behind Community,176.45,6,0.08,142.2,29.40833333,162.334
+3bb77b74,2024-03-08,2024-03-08,First Class,38e774,Carla Singleton,Corporate,Central,Office Supplies,Paper,Hotel Require,62.33,5,0.36,50.7,12.466,39.8912
+3dfecf3f,2024-04-17,2024-11-26,First Class,7c5f3b,Danielle Kemp,Home Office,East,Office Supplies,Storage,Herself Check,29.59,8,0.1,142.77,3.69875,26.631
+d76de31c,2024-12-19,2024-02-21,Standard Class,7c7c39,Michael Hill,Corporate,South,Office Supplies,Phones,Six Staff,481.08,5,0.14,195.12,96.216,413.7288
+2cff32d8,2023-10-28,2024-02-10,Same Day,8016dd,William Jones,Home Office,West,Furniture,Tables,Feel Nearly,305.49,7,0.33,164.17,43.64142857,204.6783
+5d9f1775,2024-10-12,2023-05-14,Second Class,bcc008,Thomas Lopez,Corporate,South,Office Supplies,Chairs,Last Nearly,250.27,2,0.46,100.94,125.135,135.1458
+7b8095cd,2023-09-14,2023-12-10,Same Day,ef5474,Kenneth Dunn,Home Office,Central,Furniture,Phones,Worker Say,66.33,9,0.45,108.02,7.37,36.4815
+c3b1b923,2023-10-20,2024-03-14,Second Class,470b69,Mary Lewis,Consumer,Central,Furniture,Paper,Door Long,479.22,9,0,31.62,53.24666667,479.22
+ffc6f694,2024-11-02,2024-11-13,Standard Class,b84c4c,Maria Hernandez,Home Office,South,Office Supplies,Tables,Few Big,109.02,10,0.23,153.79,10.902,83.9454
+2f05e8a8,2024-09-20,2024-08-15,First Class,736fe7,Tristan Hernandez,Corporate,Central,Furniture,Chairs,Mr Image,253.08,2,0.37,25.61,126.54,159.4404
+94ab4bca,2024-06-27,2023-03-07,Second Class,7a52c5,Tristan Harper,Home Office,Central,Furniture,Paper,Determine Sister,248.31,6,0.49,2.45,41.385,126.6381
+8892c575,2023-08-14,2023-10-22,Same Day,c35bb1,Todd Hall,Consumer,South,Technology,Phones,Crime Interesting,303.38,1,0.21,136.37,303.38,239.6702
+ae53556e,2024-01-06,2023-06-11,Standard Class,88bc91,Alexis Jenkins,Consumer,Central,Office Supplies,Binders,Control This,28.11,5,0.2,130.63,5.622,22.488
+bfb7fab5,2023-11-30,2024-02-09,First Class,b9c524,James Beltran,Consumer,West,Furniture,Chairs,Sell Response,440.32,4,0.43,32.7,110.08,250.9824
+67ac2e5e,2025-02-01,2023-12-17,Same Day,ad9a5a,Angela Brooks,Corporate,East,Office Supplies,Paper,Of Enjoy,223.5,5,0.39,167.66,44.7,136.335
+99801fb3,2024-10-15,2023-12-14,Same Day,c89b07,Brittany Luna,Corporate,West,Technology,Tables,Born Cell,442.49,10,0.42,6.71,44.249,256.6442
+629bec6d,2024-02-20,2024-02-10,Second Class,4253f4,Sara Fuller,Consumer,East,Furniture,Chairs,Into Take,5.23,8,0.48,198.12,0.65375,2.7196
+b091a64f,2024-10-09,2024-09-28,First Class,655316,Jorge Berry,Corporate,Central,Technology,Phones,Amount Sound,218.58,8,0.3,9.73,27.3225,153.006
+62a81c44,2024-08-07,2023-05-28,Second Class,44b465,Gloria Lee,Home Office,South,Technology,Paper,Manager Beat,57.13,7,0.37,22.41,8.161428571,35.9919
+a8e5861a,2025-01-09,2024-04-08,First Class,7f59fa,Bradley Craig,Corporate,South,Office Supplies,Paper,Different Budget,91.07,3,0.09,27.08,30.35666667,82.8737
+e8531597,2024-12-17,2024-09-08,Same Day,050113,Karen Chen,Consumer,West,Furniture,Storage,Wrong About,339.8,6,0.24,149.12,56.63333333,258.248
+5b5616d3,2024-02-24,2024-05-15,Second Class,20aa7a,Lisa Shea,Home Office,South,Furniture,Binders,Relate Across,209.93,1,0.26,63,209.93,155.3482
